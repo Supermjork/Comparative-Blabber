@@ -15,7 +15,7 @@ Chosen data:
 - [opus-French-to-English](https://huggingface.co/datasets/kaitchup/opus-French-to-English)
 - [opus-Italian-to-English](https://huggingface.co/datasets/kaitchup/opus-Italian-to-English)
 
-All credit goes to author.
+All credit goes to author. Only changes to be made shall be file name for easier loading, and/or saving preprocessed data for later use in different models.
 
 ## Steps
 
